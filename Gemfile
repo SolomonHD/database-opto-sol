@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'faker'
+gem 'delayed_job_mongoid'
+gem 'daemons'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
